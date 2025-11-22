@@ -1,0 +1,3 @@
+[submodule "train-departure-display"]
+	path = train-departure-display
+	url = https://github.com/chrisys/train-departure-display.git
